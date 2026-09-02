@@ -180,11 +180,11 @@ aside#cluster-highlights-info.hide, aside#cluster-highlights-info.hidden, aside#
 
 @font-face {
   font-family: 'AnoRegular';
-  src: url(./_annual-reports/2019/js/68af6228d96f229b4693d069383e9809.woff2) format('woff2');
+  src: url(68af6228d96f229b4693d069383e9809.woff2) format('woff2');
 }
 @font-face {
   font-family: 'AnoBlack';
-  src: url(./_annual-reports/2019/js/e7813581567d94cbeec999b3d0246512.otf) format('opentype');
+  src: url(e7813581567d94cbeec999b3d0246512.otf) format('opentype');
 }
 
 html, body {
