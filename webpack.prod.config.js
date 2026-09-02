@@ -48,9 +48,9 @@ const config = {
   entry: {
     index: path.resolve(__dirname, 'src', 'main.js')
   },
-  output: {
-    path: path.resolve(__dirname, 'dist/_annual-reports/2019/js'),
-    publicPath: './',
+ output: {
+  path: path.resolve(__dirname, 'dist/_annual-reports/2019/js'),
+  publicPath: './_annual-reports/2019/js/',
     filename: '[name].bundle.js'
   }
 }
