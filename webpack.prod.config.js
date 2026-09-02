@@ -50,7 +50,7 @@ const config = {
   },
   output: {
     path: path.resolve(__dirname, 'dist/_annual-reports/2019/js'),
-    publicPath: './js/',
+    publicPath: './',
     filename: '[name].bundle.js'
   }
 }
